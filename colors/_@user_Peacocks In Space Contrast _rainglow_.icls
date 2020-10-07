@@ -4,7 +4,7 @@
     <property name="created">2020-05-30T14:16:23</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.6.0.0</property>
-    <property name="modified">2020-09-29T00:13:33</property>
+    <property name="modified">2020-10-07T19:51:52</property>
     <property name="originalScheme">Peacocks In Space Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -3415,7 +3415,6 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="9aa2b4" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
