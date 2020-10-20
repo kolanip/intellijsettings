@@ -1,6 +1,12 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl 7" />
+  </action>
   <action id="Macro.formatted savee">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="SaveAll" />
+  <action id="ToggleBookmark7" />
 </keymap>
